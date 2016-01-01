@@ -1,4 +1,4 @@
-FROM xpfriend/jenkins-slave-base:1.5.0
+FROM xpfriend/workspace-base:2.0.0
 MAINTAINER ototadana@gmail.com
 
 RUN sudo apt-get update -y \
