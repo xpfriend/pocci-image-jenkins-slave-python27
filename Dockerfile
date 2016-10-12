@@ -1,4 +1,4 @@
-FROM xpfriend/workspace-base:3.9.0
+FROM xpfriend/workspace-base:3.10.0
 MAINTAINER ototadana@gmail.com
 
 RUN sudo apt-get update -y \
